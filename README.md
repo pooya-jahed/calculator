@@ -1,2 +1,2 @@
 # calculator
-design some ui for my calculator , add js code for functionality and some click sound hope you enjoy :)
+I designed some UI/UX for my calculator, added JS code for functionality, and added some click sounds. I hope you enjoy :)
